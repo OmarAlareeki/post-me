@@ -2,13 +2,26 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+- Create a firebase project in the firebase console.
+- Create a webapp in firebase 
+- Create a .env.local file at the root level of your reposotiry and copy config values from your firebase webapp into the .env.local.
+- Enable authentication and firestore database in your firebase console.
+
+Intall packages:
+
+```bash
+npm install
+# or
+yarn 
+```
+
+Run your dev server
 
 ```bash
 npm run dev
 # or
-yarn dev
-```
+yarn dev 
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 

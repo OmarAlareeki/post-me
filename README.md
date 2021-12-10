@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-- Create a firebase project in the firebase console.
+- Create a firebase project in the [firebase console](https://console.firebase.google.com/).
 - Create a webapp in firebase 
 - Create a .env.local file at the root level of your reposotiry and copy config values from your firebase webapp into the .env.local.
 - Enable authentication and firestore database in your firebase console.
